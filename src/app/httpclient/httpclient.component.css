@@ -1,0 +1,11 @@
+p,
+table {
+  font-family: Lato;
+}
+
+table,
+thead,
+td {
+  text-align: center;
+  border: 1px solid black;
+}
